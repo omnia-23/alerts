@@ -1,0 +1,75 @@
+export const Data = [
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  { title: "AMZN", count: 200, rate: "- 0.25 %", status: "High Risk" },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+  {
+    title: "AMZN",
+    count: 200,
+    rate: "- 0.25 %",
+    status: "High Risk",
+  },
+];

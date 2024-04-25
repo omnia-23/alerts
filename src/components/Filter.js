@@ -47,7 +47,7 @@ export default function Filter() {
           x
         </button>
       )}
-      <h1 className="font-bold text-2xl text-center">Filters</h1>
+      <h1 className="font-semibold  text-2xl text-center">Filters</h1>
       <Card className="px-5">
         <form>
           <div className="flex flex-col gap-2">
@@ -85,9 +85,14 @@ export default function Filter() {
               </Typography>
               <div className="grid grid-cols-2">
                 {industries.map((el, index) => (
-                  <div className="flex items-center cursor-pointer" key={index}>
+                  <div
+                    className="flex items-center cursor-pointer hover:bg-blue-400 hover:rounded-md hover:text-black"
+                    key={index}
+                  >
                     <TiArrowForward />
-                    <div className="text-zinc-300 mx-1">{el}</div>
+                    <div className="text-zinc-300 hover:text-black mx-1">
+                      {el}
+                    </div>
                   </div>
                 ))}
               </div>
